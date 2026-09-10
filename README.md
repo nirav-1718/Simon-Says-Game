@@ -15,9 +15,9 @@ With each successful round, the sequence becomes longer and more challenging.
 
 ## 🛠️ Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
 ## 🎯 How to play
 
